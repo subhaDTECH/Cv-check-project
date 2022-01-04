@@ -85,7 +85,7 @@ function nextCV(){
    
 
  }else{
-     alert("end of prifile")
+     alert("end of profile")
      window.location.reload();
  }
 
